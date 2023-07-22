@@ -27,5 +27,22 @@ a:hover {
 }
 
 .description {
-    background-color: bisque;
+    /* background-color: bisque; */
+}
+
+.main-recipe-title {
+    margin: 0 auto 16px auto;
+    text-align: center;
+}
+
+.main-image {
+    width: 300px;
+    display: inline-block;
+}
+
+.description-container {
+    display: inline-block;
+    width: 300px;
+    padding: 32px 0;
+    vertical-align: middle;
 }
